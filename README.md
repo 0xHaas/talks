@@ -1,7 +1,7 @@
 Jonathan's Talks
 ===================
 
-I tend to talk about security, engineering, and diversity within InfoSec. 
+I tend to talk about information security, software engineering, venture capital, and productivity. 
 
 Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at your event!
 
