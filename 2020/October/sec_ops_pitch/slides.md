@@ -34,7 +34,7 @@ Our systems **must** be easy to manage and allow us to focus on eliminating **ri
 
 We leave infrastructure up to the experts.
 
-We provide _contextual relevancy_ to our environment.
+We provide **_contextual relevancy_** to our environment.
 
 ---
 
@@ -52,15 +52,14 @@ No contracts. If we don't like it, we should be able to bail out.
 
 # We must design for leverage
 
-We need to look at technologies that provide massive [lift](https://chronicle.security/products/platform/), allowing us to scale to [all](https://www.limacharlie.io/) the devices that we have.
+We need to look at technologies that provide [lift](https://chronicle.security/products/platform/), allowing us to scale to [all](https://www.limacharlie.io/) devices.
 
-# Proposal
 
-Chronicle Backstory (Former Google X Moonshot) 
+1. **Commercial**: Chronicle Backstory (Former Google X Moonshot) 
 
-LimaCharlie.io (Founder formerly of Chronicle Backstory)
+2. **Hybrid**: LimaCharlie.io (Founder formerly of Chronicle Backstory)
 
-StreamAlert (Airbnb)
+3. **Open Source**: StreamAlert (AirBnb)
 
 ---
 
@@ -112,8 +111,6 @@ Paid for fully in scalable "cloud like" fees.
 
 Dynamically scale in any direction at the need of the business.
 
-# Locations available 
-
 Available globally.
 
 ---
@@ -130,11 +127,9 @@ A powerful rules engine syntax (YARA-L) enables analysts to build detection rule
 
 # Rules
 
-A library of extensible pre-built rules provide out of the box coverage for numerous malware variants, ransomware, trojans, suspicious behaviour, MITRE ATT&CK techniques, lolbin attacks and more. Many MSSP provide threat intelligence ruling.
+A library of extensible pre-built rules provide out of the box coverage for numerous malware variants, ransomware, trojans, suspicious behaviour, MITRE ATT&CK techniques, lolbin attacks and more.
 
 We can also take advantage of detection rules and threat indicators from Uppercase, Chronicle’s dedicated threat research team. 
-
-We combine these with existing threat intelligence the organization has, as well as contributing new open-source intelligence we come across (information sharing groups, research).
 
 ---
 
