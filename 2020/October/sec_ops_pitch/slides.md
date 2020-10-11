@@ -4,7 +4,7 @@
 
 ---
 
-# We must move scale as fast as the business
+# We must move as fast as the business
 
 We need to be infinitely elastic and designed to scale by default: anywhere, any time, in any cloud, on any system.
 
@@ -12,7 +12,7 @@ But, we need more than just the ability to scale. We need to respond in seconds.
 
 ---
 
-# We still need to maintain economies of scale
+# We need to be able to scale
 
 We [need to be able to afford](https://www.reddit.com/r/AskNetsec/comments/b32nr1/anyone_successfully_get_pricing_info_on_chronicle/) to keep every bit of security data we generate.
 
@@ -22,7 +22,7 @@ We must keep the cost of our response proportionate to the cost of a security in
 
 ---
 
-# We need to maintain our scale
+# We need to grow our scale
 
 We must create **leverage**, not just automate. We **must** be 10x.
 
@@ -38,13 +38,13 @@ We provide **_contextual relevancy_** to our environment.
 
 ---
 
-# We must embrace server-less
+# We must embrace serverless
 
 We can't afford the time setting up complicated infrastructure.
 
 We need to be able to respond instantly.
 
-# We want to fail fast
+# Strong opinions weakly held
 
 No contracts. If we don't like it, we should be able to bail out.
 
